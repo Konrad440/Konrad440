@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Konrad440
+- 👋 Hi, I’m Konrad Banasik
 - 👀 I am interesting HTML, CSS, JavaScript, React, NodeJS, Express, MongoDB
 - 🌱 I’m currently learning HTML,CSS,JavaScript
 - 💞️ I’m looking to collaborate on ...
