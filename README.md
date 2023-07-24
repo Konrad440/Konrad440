@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Konrad Banasik
 - 👀 I am interesting HTML, CSS, JavaScript, React, NodeJS, Rust
 - 🌱 I’m currently learning HTML,CSS,JavaScript, Rust
-- 💞️ I’m looking to collaborate on ...
 
 
 <!---
