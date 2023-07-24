@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Konrad Banasik
-- 👀 I am interesting HTML, CSS, JavaScript, React, NodeJS, Express, MongoDB, Blockchain, Solidity
-- 🌱 I’m currently learning HTML,CSS,JavaScript
+- 👀 I am interesting HTML, CSS, JavaScript, React, NodeJS, Rust
+- 🌱 I’m currently learning HTML,CSS,JavaScript, Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Twitter - @Konrad90847429
 
